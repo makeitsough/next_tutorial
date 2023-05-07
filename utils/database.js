@@ -24,5 +24,3 @@ export const connectToDB = async () => {
     console.log(error);
   }
 };
-
-//test
